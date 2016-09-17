@@ -1,0 +1,34 @@
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\FindContours.exe.config
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\FindContours.exe
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\FindContours.pdb
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\obj\Debug\FindContours.csprojResolveAssemblyReference.cache
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\obj\Debug\FindContours.Properties.Resources.resources
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\obj\Debug\FindContours.csproj.GenerateResource.Cache
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\obj\Debug\FindContours.exe
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\obj\Debug\FindContours.pdb
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\Emgu.CV.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\Emgu.CV.GPU.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\Emgu.CV.ML.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\Emgu.CV.UI.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\Emgu.Util.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\obj\Debug\FindContours.Form1.resources
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\ZedGraph.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_calib3d220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_contrib220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_core220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_features2d220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_ffmpeg220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_flann220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_gpu220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_highgui220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_imgproc220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_legacy220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_ml220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_objdetect220.dll
+c:\users\lasithap\documents\visual studio 2012\Projects\FindContours\FindContours\bin\Debug\opencv_video220.dll
+F:\BlogResources\FindContours_Resources\SourceCode\FindContours\FindContours\bin\Debug\FindContours.exe.config
+D:\Projects\ImageSlicesCompiler\FindContours\bin\Debug\FindContours.exe.config
+D:\Projects\ImageSlicesCompiler\FindContours\obj\Debug\FindContours.csprojResolveAssemblyReference.cache
+D:\Projects\ImageSlicesCompiler\FindContours\obj\Debug\FindContours.FrmContours.resources
+D:\Projects\ImageSlicesCompiler\FindContours\obj\Debug\FindContours.Properties.Resources.resources
+D:\Projects\ImageSlicesCompiler\FindContours\obj\Debug\FindContours.csproj.GenerateResource.Cache
