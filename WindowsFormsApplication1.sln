@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindContours", "FindContour
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNetCoreWebApplication", "AspNetCoreWebApplication\AspNetCoreWebApplication.xproj", "{6C1D2021-27A2-4BEF-8244-6F24AF91F5FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeScriptHTMLApp1", "TypeScriptHTMLApp1\TypeScriptHTMLApp1.csproj", "{56042A5E-5F75-4804-A7CC-E77D7AA39740}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExpressApp1", "ExpressApp1\ExpressApp1.njsproj", "{EC3B7603-68E4-40F7-A663-5D90BBF3860F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6C1D2021-27A2-4BEF-8244-6F24AF91F5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1D2021-27A2-4BEF-8244-6F24AF91F5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1D2021-27A2-4BEF-8244-6F24AF91F5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56042A5E-5F75-4804-A7CC-E77D7AA39740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56042A5E-5F75-4804-A7CC-E77D7AA39740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56042A5E-5F75-4804-A7CC-E77D7AA39740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56042A5E-5F75-4804-A7CC-E77D7AA39740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3B7603-68E4-40F7-A663-5D90BBF3860F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3B7603-68E4-40F7-A663-5D90BBF3860F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3B7603-68E4-40F7-A663-5D90BBF3860F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3B7603-68E4-40F7-A663-5D90BBF3860F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
